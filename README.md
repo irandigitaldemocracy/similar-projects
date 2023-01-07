@@ -1,5 +1,5 @@
-# Similar Projects
-A repo for a list of similar project to avoid re-invention of the wheel.
+# E-democracy platforms
+A repo for a list of E-democracy platforms to avoid re-invention of the wheel.
 
 * [forDem, a Voting e-Dem platform](https://github.com/tcfev/forDem)
 * [Decide-Madrid, an Argument-based recommender systems](https://github.com/argrecsys)
@@ -11,4 +11,4 @@ A repo for a list of similar project to avoid re-invention of the wheel.
 * [Polis: a real-time system for gathering, analyzing and understanding what large groups of people think in their own words, enabled by advanced statistics and machine learning.](https://github.com/pol-is)
 
 
-If you know about a project listed not above, please make a pull request to update this list. Thank you!
+If you know about a project listed not above, please make a pull request to update this list.
